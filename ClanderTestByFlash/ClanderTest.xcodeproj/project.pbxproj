@@ -21,6 +21,8 @@
 		34CEE12E1993F003003CCB6C /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 34CEE1101993F003003CCB6C /* UIKit.framework */; };
 		34CEE1361993F003003CCB6C /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 34CEE1341993F003003CCB6C /* InfoPlist.strings */; };
 		34CEE1381993F003003CCB6C /* ClanderTestTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 34CEE1371993F003003CCB6C /* ClanderTestTests.m */; };
+		34CEE1491993F144003CCB6C /* TestViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 34CEE1471993F144003CCB6C /* TestViewController.m */; };
+		34CEE14A1993F144003CCB6C /* TestViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 34CEE1481993F144003CCB6C /* TestViewController.xib */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -53,6 +55,9 @@
 		34CEE1331993F003003CCB6C /* ClanderTestTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "ClanderTestTests-Info.plist"; sourceTree = "<group>"; };
 		34CEE1351993F003003CCB6C /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		34CEE1371993F003003CCB6C /* ClanderTestTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ClanderTestTests.m; sourceTree = "<group>"; };
+		34CEE1461993F144003CCB6C /* TestViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TestViewController.h; sourceTree = "<group>"; };
+		34CEE1471993F144003CCB6C /* TestViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TestViewController.m; sourceTree = "<group>"; };
+		34CEE1481993F144003CCB6C /* TestViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = TestViewController.xib; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -117,6 +122,9 @@
 				34CEE11E1993F003003CCB6C /* Main.storyboard */,
 				34CEE1211993F003003CCB6C /* ViewController.h */,
 				34CEE1221993F003003CCB6C /* ViewController.m */,
+				34CEE1461993F144003CCB6C /* TestViewController.h */,
+				34CEE1471993F144003CCB6C /* TestViewController.m */,
+				34CEE1481993F144003CCB6C /* TestViewController.xib */,
 				34CEE1241993F003003CCB6C /* Images.xcassets */,
 				34CEE1131993F003003CCB6C /* Supporting Files */,
 			);
@@ -230,6 +238,7 @@
 			files = (
 				34CEE1251993F003003CCB6C /* Images.xcassets in Resources */,
 				34CEE1171993F003003CCB6C /* InfoPlist.strings in Resources */,
+				34CEE14A1993F144003CCB6C /* TestViewController.xib in Resources */,
 				34CEE1201993F003003CCB6C /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -251,6 +260,7 @@
 			files = (
 				34CEE1231993F003003CCB6C /* ViewController.m in Sources */,
 				34CEE11D1993F003003CCB6C /* AppDelegate.m in Sources */,
+				34CEE1491993F144003CCB6C /* TestViewController.m in Sources */,
 				34CEE1191993F003003CCB6C /* main.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -456,6 +466,7 @@
 				34CEE13D1993F003003CCB6C /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		34CEE13E1993F003003CCB6C /* Build configuration list for PBXNativeTarget "ClanderTestTests" */ = {
 			isa = XCConfigurationList;
@@ -464,6 +475,7 @@
 				34CEE1401993F003003CCB6C /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

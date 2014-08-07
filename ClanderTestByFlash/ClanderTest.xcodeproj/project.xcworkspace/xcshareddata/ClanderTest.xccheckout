@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>0B7C020B-F682-43A0-9118-A2B96D00372D</string>
+	<key>IDESourceControlProjectName</key>
+	<string>ClanderTest</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>877E8260-DE78-4630-A846-B8D62B9F4635</key>
+		<string>https://github.com/seansTeam/CalendarTest.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>ClanderTestByFlash/ClanderTest.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>877E8260-DE78-4630-A846-B8D62B9F4635</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/seansTeam/CalendarTest.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>877E8260-DE78-4630-A846-B8D62B9F4635</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>877E8260-DE78-4630-A846-B8D62B9F4635</string>
+			<key>IDESourceControlWCCName</key>
+			<string>CalendarTest</string>
+		</dict>
+	</array>
+</dict>
+</plist>
